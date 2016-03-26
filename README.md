@@ -1,0 +1,2 @@
+# JenkinsTestProject
+namespace JenkinsTestProject
