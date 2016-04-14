@@ -1,1 +1,0 @@
-E:\Documents\Visual Studio 2015\Projects\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe.config
