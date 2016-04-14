@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2015\Projects\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe.config
+E:\workspace\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe.config
+E:\workspace\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe
+E:\workspace\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.pdb
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.csprojResolveAssemblyReference.cache
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.Form1.resources
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.Properties.Resources.resources
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.csproj.GenerateResource.Cache
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.exe
+E:\workspace\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.pdb
